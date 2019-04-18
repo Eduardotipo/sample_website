@@ -1,0 +1,50 @@
+
+.nav-menu {
+    text-align: right;
+  }
+
+  .nav-spacing {
+  margin: 0 0 0 10px;
+  text-decoration: none;
+}
+
+.image-link {
+    text-decoration: none;
+}
+
+blockquote {
+    padding: 2px 20px; 
+    background: #f5f5f5"
+}
+
+header {
+    text-align: center; 
+    margin: 0 0 80px;
+}
+
+/* Moby Dick */
+
+.div-a {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.moby-image {
+    height: 200px; 
+    float: left; 
+    margin-right: 40px;
+}
+
+.moby-quote {
+    font-style: italic; 
+    font-size: 20px;
+}
+
+.moby-span {
+    font-style: normal;
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #fccc;
+}
